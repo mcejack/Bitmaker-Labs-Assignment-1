@@ -1,0 +1,122 @@
+
+/******General****/
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  font-size: 16px;
+}
+
+img{
+	max-width: 100%;
+}
+
+p{
+  margin-bottom: 1em;
+  line-height: 1.15em;
+}
+
+/****Header****/
+
+header {
+	background-color: rgb(55, 210, 154);
+  font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+  text-align: center;
+	font-weight: bold;
+  padding: 1.35em;
+}
+
+h1 {
+  color: white;
+  font-size: 1.85em;
+}
+
+h3 {
+  font-size: 1.15em;
+  font-weight: bold;
+  margin-bottom: 1em;
+}
+
+nav {;
+  display: inline-block;
+  margin: 0.55em;
+	padding: 0 0.6em;
+}
+
+.navbar li {
+  font-size: 1em;
+  padding-bottom: 0.30em;
+  font-weight: normal;
+}
+
+.container {
+  max-width: 56.25em;
+  margin: auto;
+}
+
+.welcome {
+  display: block;
+  text-align: center;
+}
+
+.welcome-banner {
+  display: inline-block;
+  padding: 0;
+  border: 0;
+  width: 100%;
+}
+
+.welcome-content {
+	font-size: 1.5em;
+	font-weight: bold;
+  display: inline-block;
+  padding-bottom: 0.25em;
+  border-bottom: 0.23em solid #EF476F;
+  margin: 1em 0;
+}
+
+.call-to-action, .products, .about {
+  display: block;
+  padding: 3em 1.5em;
+}
+
+.call-to-action {
+  background-color: rgb(251, 216, 112);
+}
+
+.products {
+  background-color: rgb(240, 242, 241);
+  list-style-type: none;
+}
+
+.about {
+  background-color: #26547C;
+  color: white;
+  overflow: hidden;
+}
+
+.about h3 {
+  text-transform: uppercase;
+  color: rgb(214, 69, 90);
+  display: inline-block;
+  float:left;
+  text-align: center;
+  width: 30%;
+  margin-bottom: 2em;
+}
+
+.about p {
+  clear: both;
+}
+
+footer {
+  background-color: rgb(55, 210, 154);
+  display: block;
+  padding: 1em 1em;
+  font-family:'Helvetica', 'Arial', sans-serif;
+  font-size: 1em;
+  text-align: right;
+}

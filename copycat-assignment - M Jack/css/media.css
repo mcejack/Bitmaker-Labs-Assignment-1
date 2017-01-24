@@ -1,0 +1,68 @@
+/* 33.75em == 540px */
+@media screen and (min-width: 33.75em) {
+
+  html {
+    font-size: 20px;
+  }
+
+  .logo {
+    float: left;
+    font-size: 0.85em;
+  }
+
+  header {
+  overflow:hidden;
+  padding: 1em;
+}
+
+  nav {
+    float:right;
+    display: block;
+    margin: 0;
+    font-size: 0.95em;
+  }
+
+  .navbar li {
+    display: inline-block;
+    padding: 0 0.20em;
+  }
+
+  .welcome {
+    background-color: #26547C;
+    overflow: hidden;
+    padding-bottom: 0.20em;
+  }
+
+  .welcome-banner {
+    float: left;
+    width: 60%;
+  }
+
+  .welcome-content {
+    float: right;
+    font-size:1.75em;
+    color: #FFFFFF;
+    width: 40%;
+    border-bottom: none;
+    padding-bottom: 0.5em;
+    line-height: 1.25em;
+  }
+
+  .product-wrapper {
+      overflow: hidden;
+    }
+
+    .product-item {
+      float: left;
+      width: 33%;
+      padding: 0.66em;
+    }
+
+    .product-item > img {
+      border: 0.15em solid black;
+    }
+
+  .about {
+    display: inline-block;
+  }
+}
