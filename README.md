@@ -1,3 +1,1 @@
-# assignment-1
-Assignment 1 from weeks 3&amp;4 Bitmaker
-Assignment to be reviewed 
+Assignment from Front End Web Development course. The assignment required copying a sample website to mimic the look and feel of the site.
