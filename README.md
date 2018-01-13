@@ -1,2 +1,2 @@
 #assignment-1
-Assignment from Front End Web Development course. The assignment required copying a sample website to mimic the look and feel of the site.
+First assignment from Front End Web Development course at Bitmaker Labs. The assignment required that I create a copy of a sample website to mimic the appearance and functionality of the site.
